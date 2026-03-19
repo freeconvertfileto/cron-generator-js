@@ -2,7 +2,7 @@
 
 Build cron expressions visually from 5-field inputs with human-readable description and next-run preview, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/developer-tools/cron-generator
+**Live Demo:** https://file-converter-free.com/en/developer-tools/cron-generator-online
 
 ## How It Works
 
